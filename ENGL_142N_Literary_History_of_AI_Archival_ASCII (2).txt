@@ -1,0 +1,183 @@
+=====================================================================
+
+                     ENGL 142N: SCIENCE IN LITERATURE
+
+                 THE LITERARY HISTORY OF ARTIFICIAL INTELLIGENCE
+
+=====================================================================
+
+"In the beginning was the Word..."
+
+There is no history of artificial intelligence without a literary
+history of artificial intelligence.
+
+Before AI was electronic, it was theological, philosophical,
+mathematical, mechanical, and narrative.  This course traces a long
+arc:
+
+    LOGOS -> LOGIC -> CODE
+
+Understanding these patterns is not antiquarian.
+It may be useful.
+
+---------------------------------------------------------------------
+COURSE DESCRIPTION
+---------------------------------------------------------------------
+
+This course examines primary texts that imagine thinking matter,
+symbolic systems, artificial beings, machinic memory, and networked
+consciousness.  We treat AI not merely as technology, but as an
+evolving literary structure.
+
+From John 1:1 to Leibniz's calculus, from Poe's chess-playing
+automaton to Searle's Chinese Room, from Bush's Memex to Nelson's
+hypertext, and from Gibson's Wintermute to contemporary machine
+learning imaginaries, we follow recurring metaphors that shape what
+AI has been — and what it is becoming.
+
+---------------------------------------------------------------------
+GUIDING QUESTIONS
+---------------------------------------------------------------------
+
+* What does it mean for language to generate worlds — or machines?
+* Can syntax think?
+* Why do artificial beings first appear in literature?
+* What is the difference between calculation and understanding?
+* What patterns recur across centuries of symbolic thought?
+
+---------------------------------------------------------------------
+UNIT I — LOGOS AND SYMBOLIC INFINITY
+---------------------------------------------------------------------
+
+Primary Texts:
+
+  - John 1:1–18
+  - René Descartes, Discourse on Method (selections)
+  - G.W. Leibniz on calculus and the Characteristica Universalis
+
+Focus:
+
+  Word as generative principle
+  Infinity and the differential as compression
+  The dream of a universal formal language
+
+Pattern:
+
+  INFINITY -> CALCULUS -> COMPUTATION
+
+---------------------------------------------------------------------
+UNIT II — AUTOMATA AND THEATRICAL INTELLIGENCE
+---------------------------------------------------------------------
+
+Primary Texts:
+
+  - Edgar Allan Poe, "Maelzel's Chess-Player"
+  - E.T.A. Hoffmann, "The Sandman"
+  - Mary Shelley, Frankenstein (selections)
+
+Focus:
+
+  The automaton as interface
+  Hidden labor and distributed cognition
+  The uncanny as proto-AI anxiety
+
+Pattern:
+
+  AUTOMATON -> ALGORITHM -> AGENT
+
+---------------------------------------------------------------------
+UNIT III — SYNTAX, SEMANTICS, AND THE CHINESE ROOM
+---------------------------------------------------------------------
+
+Primary Texts:
+
+  - Alan Turing, "Computing Machinery and Intelligence"
+  - John Searle, "Minds, Brains, and Programs"
+  - Norbert Wiener, Cybernetics (selections)
+
+Focus:
+
+  The imitation game as narrative experiment
+  Syntax vs. semantics
+  Systems, feedback, information
+
+Question:
+
+  Is the Chinese Room a philosophical argument —
+  or a piece of speculative fiction?
+
+---------------------------------------------------------------------
+UNIT IV — MEMORY MACHINES AND HYPERTEXT DREAMS
+---------------------------------------------------------------------
+
+Primary Texts:
+
+  - Vannevar Bush, "As We May Think"
+  - Ted Nelson, Literary Machines (selections)
+  - Jorge Luis Borges, "The Library of Babel"
+
+Focus:
+
+  The Memex as narrative architecture
+  Hypertext as literary structure
+  Infinite libraries and combinatorial worlds
+
+Pattern:
+
+  LIBRARY -> DATABASE -> NEURAL NETWORK
+
+---------------------------------------------------------------------
+UNIT V — NETWORKED CONSCIOUSNESS AND CORPORATE AI
+---------------------------------------------------------------------
+
+Primary Texts:
+
+  - Philip K. Dick, Do Androids Dream of Electric Sheep? (sel.)
+  - William Gibson, Neuromancer (Wintermute)
+  - Donna Haraway, "A Cyborg Manifesto" (excerpt)
+
+Focus:
+
+  Distributed identity
+  Corporate cognition
+  Posthuman subjectivity
+
+Pattern:
+
+  DIVINE WORD -> FORMAL LANGUAGE -> MACHINE LEARNING MODEL
+
+---------------------------------------------------------------------
+MAJOR ASSIGNMENTS
+---------------------------------------------------------------------
+
+  1. Two analytical essays (4–5 pages)
+  2. Structured debate or position paper
+  3. Final research or creative-critical project
+
+Possible directions:
+
+  * Trace a metaphor across centuries (Word, Machine, Library,
+    Ghost, Network)
+  * Design a conceptual Memex interface with annotations
+  * Write short speculative fiction with critical reflection
+
+---------------------------------------------------------------------
+LEARNING OUTCOMES
+---------------------------------------------------------------------
+
+Students will:
+
+  - Analyze foundational texts shaping ideas of AI
+  - Identify recurring metaphors across centuries
+  - Produce rigorous analytical writing
+  - Develop creative or hybrid scholarly projects
+
+---------------------------------------------------------------------
+
+Understanding the literary history of AI clarifies the future of AI.
+
+=====================================================================
+
+(archival ascii edition)
+
+=====================================================================
